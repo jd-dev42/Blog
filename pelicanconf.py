@@ -26,6 +26,7 @@ LINKS = [
 SOCIAL = [
     ("You can add links in your config file", "#"),
     ("Another social link", "#"),
+    ("this is a test", "#")
 ]
 
 DEFAULT_PAGINATION = 10
