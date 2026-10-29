@@ -1,6 +1,6 @@
 AUTHOR = 'jd'
 SITENAME = "jd's Blog"
-SITEURL = "https://jd-dev42.github.io/Blog/"
+SITEURL = ""
 
 PATH = "content"
 
@@ -23,6 +23,10 @@ LINKS = [
 ]
 
 # Social widget
+SOCIAL = [
+    ("You can add links in your config file", "#"),
+    ("Another social link", "#"),
+]
 
 DEFAULT_PAGINATION = 10
 
